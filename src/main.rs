@@ -47,3 +47,4 @@ fn fib(num: u32) -> u32 {
 fn get_str_len(s: String) -> usize {
     return s.chars().count();
 }
+
