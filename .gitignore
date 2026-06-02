@@ -5,3 +5,5 @@
 /enums-in-rust/target
 /package-management-in-rust/target
 /memory-management-in-rust/target
+
+/project/calculator/target
