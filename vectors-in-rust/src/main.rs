@@ -6,12 +6,16 @@ fn main() {
     vec.push(3);
 
     vec.pop();
-    
+
     vec.push(4);
 
     println!("vlaues in vector are {:?}", vec);
 
     println!("even numbers in vector {:?}", filter_even_values(&vec));
+
+    let vec1 = vec![1,2,3,4,5];
+
+    println!("vlaues in vec MACRO vec! are {:?}", vec1);
    
 }
 
