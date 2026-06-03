@@ -10,5 +10,8 @@
 /hashmaps-in-rust/target
 /iterators-in-rust/target
 /Strings-slices-in-rust/target
+/generics-in-rust/target
+/traits-in-rust/target
+/lifetimes-in-rust/target
 
 /project/calculator/target
