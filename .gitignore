@@ -8,5 +8,7 @@
 
 /vectors-in-rust/target
 /hashmaps-in-rust/target
+/iterators-in-rust/target
+/Strings-slices-in-rust/target
 
 /project/calculator/target
