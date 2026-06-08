@@ -19,7 +19,6 @@ impl Config {
 
         let case_senstive = env::var("CASE_INSENSITIVE").is_err();
 
-        println!("case senstive value form env{:?}", env::var("CASE_INSENSITIVE"));
         return Ok(Config { query, filename , case_senstive});
     }
 }
